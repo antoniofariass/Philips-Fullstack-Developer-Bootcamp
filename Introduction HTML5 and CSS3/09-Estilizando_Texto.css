@@ -1,0 +1,30 @@
+/* Estilizando Texto */
+
+#title{
+    font-family: Verdana;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+.post_title{
+    font-family: Verdana, Arial;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+/*
+font-family - fonte da letra
+font-size - tamanho da letra
+font-style - estilo (italico)
+font-weight - negrito ou normal (bold ou normal)
+text-transform - uppercase (todo texto em caixa altaa
+                 lowercase (todo texto em caixa baixa)
+                 capitalize (coloca todas as primeiras letras em aiscula)
+
+text-decoration - underline(linha em baixo da palavra)
+                  overline (linha sobre a palavra)
+                  liner-through (linha cortando a palavra)
+*/         

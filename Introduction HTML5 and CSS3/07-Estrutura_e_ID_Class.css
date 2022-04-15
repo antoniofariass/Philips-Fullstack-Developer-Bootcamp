@@ -1,0 +1,16 @@
+/* Estrutura basica */
+
+a , p , h1 , h3{
+    color: blue;
+    font-size: 14px;
+}
+
+/* ID */
+.header {
+    padding: 10px;
+}
+
+/* Class */
+#header{
+    padding: 15px;
+}

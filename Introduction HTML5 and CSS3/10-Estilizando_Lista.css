@@ -1,0 +1,19 @@
+/* Estilizando listas */
+
+ul{
+    list-style-type: square; /*marcador quadrado */
+
+}
+
+ol{
+    list-style-type: upper-roman; /* marcador letra romana */
+}
+
+ul{
+    list-style-type: "\1f44D"; /*emoji */
+}
+
+ul{
+    list-style-image: url("rocket.png"); /* imagem */
+}
+

@@ -1,0 +1,15 @@
+/* Dimensão e Alinhamento 
+
+WIDHT - largura 
+HEIGHT - altura 
+Max-width - maxima largura 
+max-height - maxima altura 
+margin - espaçamento elementos 
+text align - alinhar (left,right, center e justify)
+
+Alinhar imagem:
+*/
+display: block;
+    margin-left: auto;
+    margin-right: auto
+
