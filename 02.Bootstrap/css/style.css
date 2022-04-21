@@ -8,10 +8,25 @@ body{
 .quem-somos{
     font-size: 20px;
     color: rgb(0, 0, 0);
-    background-color: rgb(229, 229, 154);
+    background-color: yellow;
 }
 
 .margin{
     padding-bottom: 50px;
+    padding-top: 10px;
 }
 
+.parceiros{
+    background-color: aqua;
+}
+
+.servicos{
+    background-color: chartreuse;
+}
+
+.bg-footer{
+    background-color: black;
+    color: aliceblue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
